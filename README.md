@@ -1,4 +1,4 @@
-#Suffix-Tree-Bioinformatics
+### Suffix-Tree-Bioinformatics
 
 This project implements a **Trie (suffix tree)** in C++ for **pattern matching** in DNA/protein sequences.
 
