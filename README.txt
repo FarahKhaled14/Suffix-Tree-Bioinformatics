@@ -11,7 +11,7 @@ for example :sequence 1 = "SBIGJKMMIXBAOSIUDABSKJ";
 	The longestCommonSubstring function of the Trie class is called with s1 and s2 as 	arguments with the usage of insertsuffix function. 
 	The function constructs a suffix trie from both strings and then finds the LCS using a 	recursive approach.
 	The result is printed to the console.
-3.2- Pattern Matching:
+3.2- Pattern Matching(My contribution):
 	DNA or Protein Sequence and a pattern string are entered by the user.
 for example : Sequence = "TAGCTAC";
               Pattern = "AGC"; 
