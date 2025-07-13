@@ -5,9 +5,6 @@ This project implements a **Trie (suffix tree)** in C++ for **pattern matching**
 ## My Focus: Pattern Matching
 Implemented the logic to build a suffix tree and search for a specific **pattern** in a biological sequence. Demonstrated usage with DNA strings.
 
-## Teamwork Acknowledgement
-The functionality for **Longest Common Substring (LCS)** was contributed by my colleague Kirolos Helmy.
-
 ## How to Run
 - Open `main.cpp` in any C++ compiler
 - Follow prompts to enter sequences or patterns
